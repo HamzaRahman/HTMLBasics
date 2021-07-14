@@ -1,0 +1,106 @@
+body { 
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    width: 1024px;
+    margin: 40px;  
+	background: #E7DA66;
+}
+* {
+  box-sizing: border-box;
+}
+.nav-button{
+	float: right;
+	text-decoration: none;
+	border: solid;
+	padding: 20px;
+}
+.UserHeadline{
+	margin: 10px 100px 10px 100px; padding: 20px;border: solid;float: left;
+}
+.myform{
+	border: solid;
+	clear:left;
+	margin: 10px 100px 10px 100px;
+}
+.myinput{
+	margin: 10px 0px 0px ;
+}
+.myinput-reset{
+	margin: 10px 0px 0px ;
+	border-radius: 10px;
+	background: #F8060A;
+}
+.myinput-submit{
+	margin: 10px 0px 0px ;
+	border-radius: 10px;
+	background: #16EC49;
+}
+.headline{
+	clear: left;
+	width: 79%;
+}
+.logo{
+	float: left;
+	margin: 0px;
+  	padding: 10px;
+	border: solid;
+	background: #D82427;
+}
+.myul {
+	float: left;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #334882;
+}
+.myli {
+  float: left;
+}
+
+.myli a {
+	border: solid;
+  display: block;
+  color: white;
+	border-color: black;
+  text-align: center;
+  padding: 20px;
+  text-decoration: none;
+}
+.myheadline{
+	margin: 10px; padding: 20px;border: solid;float: left;
+}
+.mypara{
+	text-align: center;margin: 10px; padding: 100px; height: 50px;border: solid;clear:left;
+}
+.myarticle
+{
+	text-align: center;
+	border: solid;
+	float: left;
+	width: 37.5%;
+	margin: 10px; 
+	clear: right;
+}
+.myarticle2
+{
+	text-align: center;
+	border: solid;
+	float: left;
+	width: 38.5%;
+	margin-left: 10px;
+	
+}
+.aside{
+	width: 20%;
+	float: right;
+	margin-top: -307px;
+  	padding: 0;
+	border: solid;
+	clear: none;
+}
+.footer{
+	clear: both;
+	text-align: center;
+	border: solid;
+}
+
